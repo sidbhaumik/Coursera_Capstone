@@ -40,7 +40,7 @@ From the initial visual inspection through the generated Maps, I see that they a
 
 ### Chicago, IL
 
-![Chicago%20geoplot1.png](attachment:Chicago%20geoplot1.png)
+![Chicago%20geoplot1.png](attachment:Chicago%20geoplot1.PNG)
 
 ### Miami, FL
 
